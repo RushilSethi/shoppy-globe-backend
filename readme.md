@@ -1,4 +1,4 @@
-# E-Commerce API
+# ShoppyGlobe E-Commerce API
 
 This API allows you to manage products, user authentication, and shopping cart functionality for an e-commerce platform.
 
